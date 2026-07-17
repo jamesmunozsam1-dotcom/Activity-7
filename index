@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Rise of HoYoverse</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">HoYoverse</a>
+        </div>
+    </nav>
+
+    <section class="bg-primary text-white text-center py-5">
+        <div class="container">
+            <h1 class="display-4">The Rise of HoYoverse Games</h1>
+            <p class="lead">
+                How HoYoverse became one of the biggest names in modern gaming.
+            </p>
+        </div>
+    </section>
+
+    <div class="container my-5">
+        <h2>Introduction</h2>
+        <p>
+            HoYoverse has become one of the most influential game developers
+            in the world. Through high-quality visuals, engaging stories,
+            and free-to-play accessibility, their games have attracted
+            millions of players worldwide.
+        </p>
+    </div>
+
+    <!-- Games Section -->
+    <div class="container my-5">
+        <div class="row">
+
+            <!-- Genshin -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="https://via.placeholder.com/400x200"
+                         class="card-img-top"
+                         alt="Genshin Impact">
+                    <div class="card-body">
+                        <h3 class="card-title">Genshin Impact (2020)</h3>
+                        <p class="card-text">
+                            An open-world RPG that popularized HoYoverse globally.
+                            Featuring the world of Teyvat, elemental combat,
+                            and continuous content updates.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- HSR -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="https://via.placeholder.com/400x200"
+                         class="card-img-top"
+                         alt="Honkai Star Rail">
+                    <div class="card-body">
+                        <h3 class="card-title">Honkai: Star Rail (2023)</h3>
+                        <p class="card-text">
+                            A turn-based RPG set across the stars.
+                            The game expanded HoYoverse's audience through
+                            strategic combat and cinematic storytelling.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ZZZ -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="https://via.placeholder.com/400x200"
+                         class="card-img-top"
+                         alt="Zenless Zone Zero">
+                    <div class="card-body">
+                        <h3 class="card-title">Zenless Zone Zero (2024)</h3>
+                        <p class="card-text">
+                            A fast-paced urban action RPG featuring stylish
+                            combat, unique characters, and a modern city setting.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Why Successful -->
+    <section class="bg-light py-5">
+        <div class="container">
+            <h2>Why HoYoverse Became Successful</h2>
+
+            <ul class="list-group">
+                <li class="list-group-item">
+                    High-quality graphics and animation
+                </li>
+
+                <li class="list-group-item">
+                    Free-to-play with cross-platform support
+                </li>
+
+                <li class="list-group-item">
+                    Frequent updates and events
+                </li>
+
+                <li class="list-group-item">
+                    Strong storytelling and world-building
+                </li>
+
+                <li class="list-group-item">
+                    Large global community
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Conclusion -->
+    <div class="container my-5">
+        <h2>Conclusion</h2>
+
+        <p>
+            From Genshin Impact's explosive launch to the success of
+            Honkai: Star Rail and Zenless Zone Zero, HoYoverse has
+            established itself as a major force in the gaming industry.
+            Their commitment to quality and continuous innovation
+            has helped them build one of the most dedicated gaming
+            communities in the world.
+        </p>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white text-center p-3">
+        <p>Created using Bootstrap 5</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
